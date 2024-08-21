@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetworkTrafficAnomalyDetector": {
+      "commandName": "Project",
+      "commandLineArgs": "predict \"D:\\Machine Learning Projects\\NetworkTrafficAnomalyDetector\\Data\\testdata.csv\""
+    }
+  }
+}
