@@ -8,7 +8,7 @@ namespace NetworkTrafficAnomalyDetector.Common
 {
     public class Constants
     {
-        public const string MODEL_FILENAME = "chapter6.mdl";
+        public const string MODEL_FILENAME = "NetworkTrafficAnomalyDetector.mdl";
 
         public const string SAMPLE_DATA = "sampledata.csv";
 
